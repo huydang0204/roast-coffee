@@ -14,7 +14,7 @@ function Hero() {
           </div>
           <div className="ml-8">
             <h1 className="text-4xl font-bold mb-4 text-center">Highlands Coffee</h1>
-            <p className="text-xl text-center">Thương hiệu bất nguồn từ cà phê Việt</p>
+            <p className="text-xl text-center">Thương hiệu bắt nguồn từ cà phê Việt</p>
           </div>
         </div>
         {/* <div className="flex justify-center">
